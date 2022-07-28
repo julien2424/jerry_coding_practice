@@ -1,0 +1,11 @@
+{
+  "name": "jerry_coding_practice",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "type":"commonjs",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}

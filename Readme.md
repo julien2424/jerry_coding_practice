@@ -1,0 +1,1 @@
+This is my version of the Jerry coding practice. `range-list.js` includes all the logic for completing the challenge and `test.js` includes all the tests. To run, go to the 'jerry_coding_practice' directory, run `npm install` and then run `npm test`. That's it!
